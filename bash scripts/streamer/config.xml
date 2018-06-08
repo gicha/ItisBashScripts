@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<ices:Configuration xmlns:ices="http://www.icecast.org/projects/ices">
+    <Playlist>
+        <File>/var/www/castit/playlists/_PLAYLIST_.txt</File>
+        <Randomize>0</Randomize>
+        <Type>builtin</Type>
+        <Module>ices</Module>
+    </Playlist>
+
+    <Execution>
+        <Background>0</Background>
+        <Verbose>0</Verbose>
+        <BaseDirectory>/home/servercast/files</BaseDirectory>
+    </Execution>
+
+    <Stream>
+        <Server>
+            <Hostname>something.fm</Hostname>
+            <Port>228</Port>
+            <Password>password</Password>
+            <Protocol>https</Protocol>
+        </Server>
+        <Mountpoint>_MOUNTPOINT_</Mountpoint>
+
+        <Name>_NAME_</Name>
+        <Genre>_GENRE_</Genre>
+        <Description>_DESCRIPTION_</Description>
+        <URL>_URL_</URL>
+        <Bitrate>_BITRATE_</Bitrate>
+
+        <Public>1</Public>
+        <Reencode>0</Reencode>
+        <Samplerate>-1</Samplerate>
+        <Channels>2</Channels>
+    </Stream>
+</ices:Configuration>

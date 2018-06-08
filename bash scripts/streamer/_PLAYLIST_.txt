@@ -1,0 +1,12 @@
+
+/Users/gicha/Documents/projects/BetIt
+/Users/gicha/Documents/projects/HDWalletKit
+/Users/gicha/Documents/projects/PosterTaiyaki
+/Users/gicha/Documents/projects/WashIt
+/Users/gicha/Documents/projects/_PLAYLIST_.txt
+/Users/gicha/Documents/projects/dever
+/Users/gicha/Documents/projects/itis_cockit
+/Users/gicha/Documents/projects/key_android
+/Users/gicha/Documents/projects/python
+/Users/gicha/Documents/projects/start_stream.sh
+/Users/gicha/Documents/projects/test.playground
